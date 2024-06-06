@@ -179,10 +179,7 @@ const workExperiences = {
       companylogo: require("./assets/images/jio_logo2.png"),
       date: "June 2022 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      
     }
   ]
 };
