@@ -23,7 +23,7 @@ const greeting = {
   username: "Jashwant",
   title: "Hi all, I'm Jashwant",
   subTitle: emoji(
-    "A passionate Software Developer 🚀🚀🚀       Currently having an experience of building Android Application with the help of Java."
+    "A passionate Software Developer 🚀🚀🚀       Currently having an experience of building Android Application with the help of Kotlin and Java."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1h6Qamowv7d7aSDCIIAybA4KdcK3hCKw-/view?usp=drive_link", // Set to empty to hide the button
@@ -66,7 +66,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      fontAwesomeClassname: "fa-solid fa-mobile"
     },
     {
       skillName: "sass",
